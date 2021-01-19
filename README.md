@@ -1,2 +1,4 @@
 # Practice_03
-for raspberrypi
+*For raspberrypi*
+-
+`This is for my raspberrypi as a localhost, and improving my programing skills.`
