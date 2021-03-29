@@ -1,4 +1,2 @@
-# Practice_03
-*For raspberrypi*
--
-`This is for my raspberrypi as a localhost, and improving my programing skills.`
+# for raspberry pi 4
+This is for my raspberrypi as a localhost, and improving my programing skills.
